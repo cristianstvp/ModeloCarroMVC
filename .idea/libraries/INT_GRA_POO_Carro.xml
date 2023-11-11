@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="INT-GRA_POO_Carro">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/INT-GRA_POO_Carro.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
